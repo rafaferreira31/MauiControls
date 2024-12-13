@@ -8,7 +8,7 @@ namespace MauiControls
         {
             InitializeComponent();
 
-            MainPage = new MauiSetValueControls();
+            MainPage = new MauiEditControls();
         }
     }
 }
